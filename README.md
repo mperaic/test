@@ -1,1 +1,1 @@
-Demo example of Pull-Fork Model
+Demo example of Pull-Fork Model! Conflict scenario
